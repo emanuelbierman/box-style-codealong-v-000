@@ -28,6 +28,7 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
+/*   Creates a drop-shadow effect for the three main sections    */
 .shadow {
   box-shadow: 0 3px 10px #333;
 }
